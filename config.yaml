@@ -1,0 +1,13 @@
+datasets:
+  - themes
+  - colors
+  - part_categories
+  - parts
+  - part_relationships
+  - elements
+  - sets
+  - minifigs
+  - inventories
+  - inventory_parts
+  - inventory_sets
+  - inventory_minifigs

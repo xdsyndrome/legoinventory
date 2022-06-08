@@ -1,0 +1,447 @@
+,id,name,parent_id
+0,1,Technic,
+1,3,Competition,1.0
+2,4,Expert Builder,1.0
+3,16,RoboRiders,1.0
+4,17,Speed Slammers,1.0
+5,18,Star Wars,1.0
+6,19,Supplemental,1.0
+7,20,Throwbot Slizer,1.0
+8,21,Universal Building Set,1.0
+9,22,Creator,
+10,23,Basic Model,22.0
+11,34,Building,23.0
+12,35,Cargo,23.0
+13,50,Town,
+14,51,Arctic,50.0
+15,52,City,
+16,53,Airport,52.0
+17,54,Cargo,52.0
+18,55,Coast Guard,52.0
+19,56,Construction,52.0
+20,57,Farm,52.0
+21,58,Fire,52.0
+22,59,Harbor,52.0
+23,60,Hospital,52.0
+24,61,Police,52.0
+25,63,Traffic,52.0
+26,64,Off-Road,52.0
+27,65,Arctic,52.0
+28,66,Trains,52.0
+29,67,Classic Town,50.0
+30,86,Divers,50.0
+31,87,Extreme Team,50.0
+32,88,Launch Command,50.0
+33,89,Outback,50.0
+34,90,Paradisa,50.0
+35,91,Race,50.0
+36,92,Res-Q,50.0
+37,93,Space Port,50.0
+38,94,Town Jr.,50.0
+39,104,Town Plan,50.0
+40,105,World City,50.0
+41,106,City Center,50.0
+42,112,Racers,
+43,114,Ferrari,112.0
+44,118,Speed Racer,112.0
+45,122,Williams F1,112.0
+46,123,World Racers,112.0
+47,126,Space,
+48,127,Alien Conquest,126.0
+49,128,Blacktron I,126.0
+50,129,Blacktron II,126.0
+51,130,Classic Space,126.0
+52,131,Exploriens,126.0
+53,132,Futuron,126.0
+54,133,Ice Planet 2002,126.0
+55,134,Insectoids,126.0
+56,135,Life On Mars,126.0
+57,136,M:Tron,126.0
+58,137,Mars Mission,126.0
+59,138,RoboForce,126.0
+60,139,Space Police I,126.0
+61,140,Space Police II,126.0
+62,141,Space Police III,126.0
+63,142,Spyrius,126.0
+64,143,Supplemental,126.0
+65,144,UFO,126.0
+66,145,Unitron,126.0
+67,146,Galaxy Squad,126.0
+68,147,Pirates,
+69,148,Pirates I,147.0
+70,149,Imperial Armada,148.0
+71,151,Imperial Soldiers,148.0
+72,152,Islanders,148.0
+73,153,Pirates II,147.0
+74,154,Pirates III,147.0
+75,155,Modular Buildings,
+76,156,Mini,155.0
+77,157,Bricktober,155.0
+78,158,Star Wars,
+79,171,Ultimate Collector Series,158.0
+80,186,Castle,
+81,187,Black Falcons,186.0
+82,188,Black Knights,186.0
+83,189,Classic Castle,186.0
+84,190,Crusaders,186.0
+85,191,Dark Forest,186.0
+86,193,Fantasy Era,186.0
+87,194,Forestmen,186.0
+88,195,Fright Knights,186.0
+89,196,Kingdoms,186.0
+90,197,Knights Kingdom I,186.0
+91,198,Knights Kingdom II,186.0
+92,199,Lion Knights,186.0
+93,201,Royal Knights,186.0
+94,202,Supplemental,186.0
+95,203,Wolfpack,186.0
+96,204,Designer Sets,
+97,206,Seasonal,
+98,207,Advent,206.0
+99,208,City,207.0
+100,209,Star Wars,207.0
+101,210,Belville,207.0
+102,211,Castle,207.0
+103,212,Classic Basic,207.0
+104,213,Clikits,207.0
+105,214,Creator,207.0
+106,215,Pirates,207.0
+107,216,Friends,207.0
+108,227,Christmas,206.0
+109,228,Creator,227.0
+110,229,Easter,206.0
+111,230,Halloween,206.0
+112,231,Thanksgiving,206.0
+113,232,Valentine,206.0
+114,233,Train,
+115,234,12V,233.0
+116,235,4.5V,233.0
+117,236,9V,233.0
+118,240,RC Train,233.0
+119,241,Supplemental,233.0
+120,246,Harry Potter,
+121,252,Architecture,
+122,253,Skylines,252.0
+123,254,Bulk Bricks,
+124,255,Castle,254.0
+125,256,Technic,254.0
+126,257,Train,254.0
+127,258,Mindstorms,
+128,259,NXT,258.0
+129,260,RCX,258.0
+130,261,Star Wars,258.0
+131,262,EV3,258.0
+132,263,Pirates of the Caribbean,
+133,264,Indiana Jones,
+134,269,Cars,
+135,270,Ben 10,
+136,271,Prince of Persia,
+137,272,SpongeBob SquarePants,
+138,273,Studios,
+139,274,Jurassic Park III,273.0
+140,275,Toy Story,
+141,276,Sculptures,
+142,277,Mosaic,276.0
+143,278,Model Team,
+144,279,4 Juniors,
+145,280,Jack Stone,279.0
+146,287,Spider-Man,279.0
+147,296,Adventurers,
+148,297,Desert,296.0
+149,298,Dino Island,296.0
+150,299,Jungle,296.0
+151,300,Orient Expedition,296.0
+152,301,Other,
+153,302,Agents,
+154,303,Ultra Agents,302.0
+155,304,Alpha Team,
+156,305,Mission Deep Sea,304.0
+157,306,Mission Deep Freeze,304.0
+158,307,Aquazone,
+159,308,Aquanauts,307.0
+160,309,Aquaraiders I,307.0
+161,310,Aquaraiders II,307.0
+162,311,Aquasharks,307.0
+163,312,Hydronauts,307.0
+164,313,Stingrays,307.0
+165,315,Atlantis,
+166,317,Avatar,
+167,318,Belville,
+168,324,Bionicle,
+169,341,Playsets,324.0
+170,360,Protectors,324.0
+171,363,Boat,
+172,364,Building Set with People,
+173,365,System,
+174,366,Basic Set,365.0
+175,367,Building,365.0
+176,368,HO 1:87 Vehicles,365.0
+177,369,Jumbo Bricks,365.0
+178,371,Supplemental,365.0
+179,372,Town Plan,365.0
+180,373,Vehicle,365.0
+181,384,Dino 2010,
+182,385,Dino Attack,
+183,386,Dinosaurs,
+184,387,Discovery,
+185,388,Disney's Mickey Mouse,
+186,389,Exo-Force,
+187,390,Fabuland,
+188,397,Factory,
+189,398,FIRST LEGO League,
+190,399,Freestyle,
+191,400,Hero Factory,
+192,401,Heroes,400.0
+193,403,Villains,400.0
+194,404,Hobby Sets,
+195,405,Homemaker,
+196,406,Inventor,
+197,407,Island Xtreme Stunts,
+198,408,LEGO Brand Store,
+199,409,Monthly Mini Model Build,408.0
+200,410,Pick A Model,408.0
+201,411,Legoland,
+202,412,Airport,411.0
+203,413,Building,411.0
+204,414,Castle,411.0
+205,415,Coast Guard,411.0
+206,416,Construction,411.0
+207,417,Fire,411.0
+208,418,Gas Station,411.0
+209,419,Harbor,411.0
+210,420,Hospital,411.0
+211,421,Police,411.0
+212,422,Space,411.0
+213,423,Vehicle,411.0
+214,424,Western,411.0
+215,425,Legoland Parks,
+216,432,Master Builder Academy,
+217,433,Minitalia,
+218,434,Ninja,
+219,435,Ninjago,
+220,437,Pharaoh's Quest,
+221,438,Power Functions,
+222,439,Power Miners,
+223,440,Primo,
+224,441,Quatro,
+225,442,Rock Raiders,
+226,443,Service Packs,
+227,448,Fabuland,443.0
+228,453,Technic,443.0
+229,456,Train,443.0
+230,458,Sports,
+231,459,Basketball,458.0
+232,460,Gravity Games,458.0
+233,461,Hockey,458.0
+234,462,Soccer,458.0
+235,463,Spybotics,
+236,464,Time Cruisers,
+237,465,Universal Building Set,
+238,466,Airport,465.0
+239,467,Basic,465.0
+240,468,Basic Model,465.0
+241,469,Basic Set,465.0
+242,470,Classic Basic,465.0
+243,471,Ferries,465.0
+244,472,Gears,465.0
+245,473,Supplemental,465.0
+246,474,Vikings,
+247,475,Western,
+248,478,X-Pod,
+249,480,Znap,
+250,481,Dino,
+251,494,Friends,
+252,497,Books,
+253,498,Technic,497.0
+254,500,Clikits,
+255,501,Gear,
+256,502,Games,
+257,503,Key Chain,501.0
+258,504,Duplo,
+259,505,Basic Set,504.0
+260,506,Cars,504.0
+261,507,Educational and Dacta,
+262,509,Adventurers,507.0
+263,510,Boat,507.0
+264,511,Building Set with People,507.0
+265,512,Castle,507.0
+266,513,Classic,507.0
+267,514,Creator,507.0
+268,515,Dinosaurs,507.0
+269,516,Duplo and Explore,507.0
+270,517,Learning,507.0
+271,518,Mindstorms,507.0
+272,519,NXT,518.0
+273,520,RCX,518.0
+274,521,WeDo,518.0
+275,523,Samsonite,507.0
+276,524,Service Packs,507.0
+277,525,Technic,524.0
+278,526,Soft Bricks,507.0
+279,527,Space,507.0
+280,528,Supplemental,507.0
+281,529,Technic,507.0
+282,530,Control Lab,529.0
+283,531,eLAB,529.0
+284,532,Supplemental,529.0
+285,533,Town,507.0
+286,534,Universal Building Set,507.0
+287,535,Collectible Minifigures,
+288,536,Series 1 Minifigures,535.0
+289,537,Series 2 Minifigures,535.0
+290,538,Series 3 Minifigures,535.0
+291,539,Series 4 Minifigures,535.0
+292,540,Series 5 Minifigures,535.0
+293,541,Series 6 Minifigures,535.0
+294,542,Series 7 Minifigures,535.0
+295,543,Series 8 Minifigures,535.0
+296,544,Series 9 Minifigures,535.0
+297,545,Series 10 Minifigures,535.0
+298,546,Team GB,535.0
+299,547,Series 11 Minifigures,535.0
+300,548,Series 12 Minifigures,535.0
+301,549,The LEGO Movie,535.0
+302,550,The Simpsons Series 1,535.0
+303,551,Series 13 Minifigures,535.0
+304,552,Series 14 Minifigures,535.0
+305,553,The Simpsons Series 2,535.0
+306,554,Series 15 Minifigures,535.0
+307,555,Disney Series 1,535.0
+308,556,Series 16 Minifigures,535.0
+309,557,DFB Minifigures,535.0
+310,558,Monster Fighters,
+311,559,Value Packs,
+312,560,Universe,
+313,561,The Hobbit and Lord of the Rings,
+314,562,The Hobbit,561.0
+315,566,The Lord of the Rings,561.0
+316,570,Teenage Mutant Ninja Turtles,
+317,571,Legends of Chima,
+318,572,Speedorz,571.0
+319,573,Constraction,571.0
+320,575,The Lone Ranger,
+321,576,LEGO Ideas and CUUSOO,
+322,577,Minecraft,
+323,578,The LEGO Movie,
+324,579,Disney Princess,
+325,580,Mixels,
+326,590,Fusion,
+327,591,Juniors,
+328,592,DC Comics Super Heroes,591.0
+329,593,Disney Princess,591.0
+330,595,Friends,591.0
+331,596,Marvel Super Heroes,591.0
+332,597,Ninjago,591.0
+333,598,Promotional,
+334,599,LEGO Exclusive,
+335,600,Elves,
+336,601,Speed Champions,
+337,602,Jurassic World,
+338,603,Scooby-Doo,
+339,604,Dimensions,
+340,605,Nexo Knights,
+341,606,Angry Birds,
+342,607,Ghostbusters,
+343,608,Disney,
+344,609,The LEGO Batman Movie Series 1,535.0
+345,610,Brickheadz,
+346,611,Series 17 Minifigures,535.0
+347,614,Jungle,52.0
+348,615,Cars,591.0
+349,616,Ninjago The Movie,435.0
+350,617,DC Super Hero Girls,
+351,618,Ninjago The Movie,535.0
+352,619,Cities of Wonders,408.0
+353,620,Jurassic World: Fallen Kingdom,591.0
+354,621,Classic,
+355,622,Series 18 Minifigures,535.0
+356,625,Unikitty!,
+357,626,Bob the Builder,504.0
+358,627,Disney Planes,504.0
+359,628,Dora the Explorer,504.0
+360,629,Miles From Tomorrowland,504.0
+361,630,Spiderman,504.0
+362,631,Thomas & Friends,504.0
+363,632,Town,504.0
+364,633,Toy Story,504.0
+365,634,Trains,504.0
+366,635,Winnie the Pooh,504.0
+367,636,My Town,632.0
+368,638,Jake and the Never Land Pirates,504.0
+369,639,Sofia the First,504.0
+370,640,Disney Princess,504.0
+371,641,Disney's Mickey Mouse,504.0
+372,646,Xtra,
+373,647,Castle,504.0
+374,648,Doc McStuffins,504.0
+375,650,Legoville,632.0
+376,651,Pirates,504.0
+377,652,Playhouse,504.0
+378,653,DC Comics,504.0
+379,654,The Powerpuff Girls,
+380,655,Powered Up,438.0
+381,656,Harry Potter and Fantastic Beasts Series 1,535.0
+382,657,Action Wheelers,504.0
+383,658,Dino,504.0
+384,659,Dolls,504.0
+385,660,Little Forest Friends,504.0
+386,661,Little Robots,504.0
+387,662,Princess Castle,504.0
+388,663,Rattles,504.0
+389,664,Toolo,504.0
+390,665,Western,504.0
+391,666,Zooters,504.0
+392,667,Fantastic Beasts,246.0
+393,668,Scala,
+394,669,Overwatch,
+395,670,The LEGO Movie II,578.0
+396,671,Forma,
+397,672,Creator 3-in-1,22.0
+398,673,Creator Expert,22.0
+399,674,Early Creator,22.0
+400,675,The LEGO Movie II,535.0
+401,676,Hidden Side,
+402,677,Disney Series 2,535.0
+403,679,Mars Exploration,52.0
+404,680,Stranger Things,
+405,681,Series 19 Minifigures,535.0
+406,682,Trolls: World Tour,
+407,683,LEGO Originals,
+408,684,DC Super Heroes,535.0
+409,685,Galidor,
+410,686,Chinese Traditional Festivals,
+411,687,Frozen,608.0
+412,688,DOTS,
+413,689,Minions,
+414,690,Super Mario,
+415,691,Harry Potter and Fantastic Beasts Series 2,535.0
+416,692,Series 20 Minifigures,535.0
+417,693,Monkie Kid,
+418,694,Brick Sketches,
+419,695,Super Heroes DC,
+420,696,Super Heroes Marvel,
+421,697,Batman,695.0
+422,698,UCS,697.0
+423,699,Constraction,695.0
+424,700,Justice League,695.0
+425,701,Superman,695.0
+426,702,Avengers,696.0
+427,703,Constraction,696.0
+428,704,Guardians of the Galaxy,696.0
+429,705,Iron Man,696.0
+430,706,Spider-Man,696.0
+431,707,X-Men,696.0
+432,708,The LEGO Batman Movie,697.0
+433,709,LEGO Art,
+434,710,Harry Potter,207.0
+435,711,The LEGO Batman Movie Series 2,535.0
+436,712,Series 21 Minifigures,535.0
+437,713,VIDIYO,
+438,714,Looney Tunes,535.0
+439,715,Marvel,535.0
+440,716,Modulex,
+441,717,Speed Racer,
+442,718,Series 22 Minifigures,535.0
+443,719,BrickLink Designer Program,
+444,720,The Muppets,535.0
+445,721,Icons,
