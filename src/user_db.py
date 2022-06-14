@@ -9,7 +9,7 @@ from collections import defaultdict
 mock_inputs = ['8884', '8885']
 
 class UserDatabase:
-    """_summary_
+    """class
     """
     def __init__(self, sets=defaultdict(lambda: 0), parts=defaultdict(lambda: 0)):
         """_summary_
