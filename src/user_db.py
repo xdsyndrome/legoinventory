@@ -15,8 +15,8 @@ class UserDatabase:
         """_summary_
 
         Args:
-            set_list (list, optional): _description_. Defaults to [].
-            parts_list (_type_, optional): _description_. Defaults to dict().
+            sets (_type_, optional): _description_. Defaults to defaultdict(lambda: 0).
+            parts (_type_, optional): _description_. Defaults to defaultdict(lambda: 0).
         """
         self.sets = sets
         self.parts = parts
