@@ -45,6 +45,11 @@ class UserDatabase:
         return
     
     def remove_parts(self, part_list: Dict) -> None:
+        """_summary_
+
+        Args:
+            part_list (Dict): _description_
+        """
         for k, v in part_list.items():
             if k not in self.parts or self.parts[k] == 0:
                 print(f'{k} is not found in existing user inventory.')
